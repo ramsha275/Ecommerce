@@ -55,7 +55,7 @@ border-radius: 50px;
     display: flex;
     margin-top: 250px;
     margin-left: 100px;
-    margin-bottom: 100px;
+    margin-bottom: 1px;
 }
 
 .tops img{
@@ -139,4 +139,100 @@ border-radius: 50px;
     margin-right: 500px;
 }
 
+.footer{
+    background-color: yellowgreen;
+    margin-top: 400px;
+    margin-left: -110px;
+    margin-bottom: -100px;
+}
 
+
+.img{
+    width: 30px;
+    margin-left: 40px;
+}
+
+.whatsapp{
+    margin-left: 700px;
+    margin-top: -70px;
+    margin-bottom: 100px;
+ 
+}
+.email{
+    margin-left: 900px;
+    margin-top: -150px;
+    margin-bottom: 100px;
+    margin-right: 266px;
+}
+.callcenter{
+    margin-left: 1150px;
+    margin-top: -150px;
+    margin-bottom: 100px;
+   
+}
+
+.foot-p{
+    color: white;
+    font-weight: 300;
+    margin-left: 20px;
+}
+.foot-h{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+
+ .footer1{
+    background-color: yellowgreen;
+    margin-top: 200px;
+}
+
+
+.img1 {
+    width: 30px;
+    margin-left: 40px;
+}
+
+.whatsapp1{
+    margin-left: 700px;
+    margin-top: 40px;
+    margin-bottom: 50px; 
+ 
+}
+
+
+.callcenter1{
+    margin-left: 1150px;
+    margin-top: -100px;
+}
+
+
+
+.foot-h1{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 10px;
+    
+}
+
+.foot-p1{
+    color: white;
+    font-weight: 300;
+    margin-left: 10px;
+
+}
+
+.email1{
+    margin-left: 200px;
+    margin-top: -65px;
+}
+
+.hr{
+    font-weight: 500;
+    margin-top: 100px;
+    margin-left: 10px;
+}
+
+ 
